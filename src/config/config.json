@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "sa",
+    "password": "trien123",
+    "database": "NodeJS",
+    "host": "localhost",
+    "dialect": "mssql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "localhost",
+    "dialect": "mssql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "localhost",
+    "dialect": "mssql"
+  }
+}
